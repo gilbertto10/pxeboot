@@ -1,4 +1,4 @@
-# Android PXE Boot Server
+ok# Android PXE Boot Server
 
 Android PXE Boot Server is an Android application that integrates ProxyDHCP, TFTP, and HTTP services to provide a temporary PXE environment on a home network.
 It is intended for recovery and maintenance scenarios, such as booting Windows PE or other rescue environments.
